@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kotak Wisata</string>
+    <string name="about_name">joko459</string>
+    <string name="about_email">jokoslamet459@gmail.com</string>
+    <string name="name">Nama Objek Wisata</string>
+    <string name="location">Lokasi</string>
+    <string name="rating">Rating</string>
+    <string name="category">Kategori</string>
+    <string name="name_img1">name img 1</string>
+    <string name="name_img2">name img 2</string>
+    <string name="name_img3">name img 3</string>
+    <string name="tag1">tag1</string>
+    <string name="tag2">tag2</string>
+    <string name="tag3">tag3</string>
+    <string name="content">isi</string>
+    <string name="description">deskripsi</string>
+    <string name="photos">Photos</string>
+</resources>
