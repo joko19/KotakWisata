@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity{
         //uji coba
         final AdapterWisata tes = new AdapterWisata(list);
         rvWisata.setAdapter(tes);
-        ListView listView = findViewById(R.id.rv_wisata);
     }
 
 }

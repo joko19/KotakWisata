@@ -13,6 +13,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 
+import java.security.AccessController;
 import java.util.ArrayList;
 
 import static android.support.v4.content.ContextCompat.startActivity;
@@ -76,6 +77,7 @@ public class AdapterWisata extends RecyclerView.Adapter<AdapterWisata.ListViewHo
     }
 
     public class ListViewHolder extends RecyclerView.ViewHolder {
+//
         ImageView img_place;
         TextView tvPlace, tvDeskripsi;
         public ListViewHolder(@NonNull View itemView) {
